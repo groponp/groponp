@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Research Programmer · Computational Biophysicist/Biologist</b><br>
+  <b>Research Programmer · Computational Biologist/Biophysicist</b><br>
   <i>Bridging biomolecular physics, cell & molecular biology, biochemistry, and computer science</i>
 </p>
 
